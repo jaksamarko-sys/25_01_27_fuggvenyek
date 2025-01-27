@@ -9,6 +9,7 @@ def osszead(x, y):
 
 
 
+
 osszead(10, 9)
 print(osszead(10, 9))
 osszead(5+5, 5+4)
